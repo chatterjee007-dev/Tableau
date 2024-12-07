@@ -10,7 +10,7 @@ The **Amazon Sales Performance Dashboard** is an interactive Tableau visualizati
 
 ## **Dashboard Snapshot**  
 
-![Amazon Sales Performance Dashboard](dashboard_image_placeholder.png)  
+![Amazon Sales Performance Dashboard](Dashboard_Image.png)  
 *Figure: Interactive Tableau Dashboard showcasing key sales metrics and trends*  
 
 ---
