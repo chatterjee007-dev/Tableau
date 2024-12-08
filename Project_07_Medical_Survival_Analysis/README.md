@@ -130,7 +130,35 @@ The **Medical Survival Analysis Dashboard** is an interactive Tableau visualizat
 ---
 
 ## **Why This Dashboard Matters**  
-- **Interactive Visuals**: Provides clear, actionable insights through detailed visualizations.  
-- **Comprehensive Data**: Offers a thorough analysis of various medical factors affecting survival.  
-- **Data-Driven Strategy**: Empowers healthcare professionals to make informed decisions to improve patient care and outcomes.
+1. **Interactive Visuals**:  
+      - Delivers clear, actionable insights through detailed and engaging visualizations.
+
+2. **Comprehensive Data Analysis**:  
+      - Provides an in-depth examination of various medical factors affecting survival, ensuring all critical aspects are considered.
+
+3. **Data-Driven Healthcare**:  
+      - Empowers healthcare professionals to make informed decisions that enhance patient care and improve survival outcomes.
+
+4. **Targeted Interventions**:  
+      - Identifies high-risk groups, enabling the development of focused monitoring and intervention strategies for conditions like anaemia, high blood pressure, and diabetes.
+
+5. **Gender-Specific Strategies**:  
+      - Highlights significant gender differences in survival rates, guiding the creation of tailored healthcare approaches.
+
+6. **Smoking Cessation Impact**:  
+      - Demonstrates the effect of smoking on survival, supporting the implementation of targeted cessation programs.
+
+7. **Age-Specific Care**:  
+      - Provides insights into the survival rates of different age groups, helping tailor healthcare strategies for older patients.
+
+8. **Laboratory Results Utilization**:  
+      - Uses key lab results such as creatinine phosphokinase and ejection fraction to optimize treatment plans.
+
+9. **Continuous Monitoring**:  
+      - Emphasizes the importance of regular follow-ups and monitoring to improve long-term survival outcomes.
+
+---
+
+By integrating these strategic insights, the **Medical Survival Analysis Dashboard** transforms how healthcare professionals and researchers approach patient care, driving improvements in survival rates and overall health outcomes.
+
 
