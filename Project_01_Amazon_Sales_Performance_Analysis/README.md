@@ -64,7 +64,7 @@ The **Amazon Sales Performance Dashboard** is an interactive Tableau visualizati
 ## **Strategic Recommendations**  
 
 1. **Leverage Core Channels**:  
-   - Prioritize resources to strengthen **Amazon.in** dominance.  
+   - Prioritize resources to strengthen **Amazon** dominance.  
 
 2. **Optimize Logistics**:  
    - Maintain and improve shipping efficiencies.  
