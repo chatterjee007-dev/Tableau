@@ -97,6 +97,17 @@ The **Airbnb New York City Market Dashboard** is an immersive Tableau visualizat
 ---
 
 ## **Why This Dashboard Matters**  
-- **Interactive Visuals**: Offers clear, actionable insights through detailed visualizations.  
-- **Market Insights**: Provides a comprehensive overview of the Airbnb market in NYC.  
-- **Data-Driven Strategy**: Facilitates informed decision-making for stakeholders.  
+- **Interactive Visuals**:
+     - Offers clear, actionable insights through detailed visualizations.
+- **Market Insights**:
+     - Provides a comprehensive overview of the Airbnb market in NYC.
+- **Data-Driven Strategy**:
+     - Facilitates informed decision-making for stakeholders.
+- **Revenue Optimization**:
+     - Identifies pricing strategies and high-demand areas to maximize revenue.
+- **Customer Engagement**:
+     - Enhances review acquisition and leverages top host practices for improved service quality.
+- **Growth Opportunities**:
+     - Highlights potential areas for expanding market presence and diversifying listings.
+- **Competitive Advantage**:
+     - Keeps Airbnb ahead by continuously adapting to market trends and customer preferences.
