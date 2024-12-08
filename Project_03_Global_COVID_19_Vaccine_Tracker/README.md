@@ -77,11 +77,19 @@ The **Global COVID-19 Vaccine Tracker** is an interactive Tableau visualization 
 ---
 
 ## **Why This Dashboard Matters**  
-1. **Interactive Visuals**: Enables clear, actionable insights through detailed visualizations, making complex data easy to understand and use.
-2. **Global Perspective**: Offers a comprehensive overview of vaccination efforts across the globe, highlighting regional disparities and progress.
-3. **Data-Driven Strategy**: Facilitates informed decision-making by providing stakeholders with reliable and up-to-date vaccination data.
-4. **Economic Insights**: Reveals the impact of economic factors on vaccination rates, guiding resource allocation to improve vaccination coverage.
-5. **Targeted Public Health Efforts**: Identifies regions with low vaccination rates, enabling targeted campaigns to boost vaccine uptake.
-6. **Equitable Vaccine Distribution**: Supports efforts to enhance international cooperation and ensure fair vaccine distribution.
-7. **Monitoring and Adaptation**: Allows continuous tracking of vaccination trends, helping to refine public health strategies over time.
-8. **Addressing Vaccine Hesitancy**: Strengthens public health messaging to overcome vaccine hesitancy and improve overall vaccination rates.
+1. **Interactive Visuals**:
+      - Enables clear, actionable insights through detailed visualizations, making complex data easy to understand and use.
+3. **Global Perspective**:
+      - Offers a comprehensive overview of vaccination efforts across the globe, highlighting regional disparities and progress.
+5. **Data-Driven Strategy**:
+      - Facilitates informed decision-making by providing stakeholders with reliable and up-to-date vaccination data.
+7. **Economic Insights**:
+      - Reveals the impact of economic factors on vaccination rates, guiding resource allocation to improve vaccination coverage.
+9. **Targeted Public Health Efforts**:
+       - Identifies regions with low vaccination rates, enabling targeted campaigns to boost vaccine uptake.
+11. **Equitable Vaccine Distribution**:
+       - Supports efforts to enhance international cooperation and ensure fair vaccine distribution.
+13. **Monitoring and Adaptation**:
+       - Allows continuous tracking of vaccination trends, helping to refine public health strategies over time.
+15. **Addressing Vaccine Hesitancy**:
+       - Strengthens public health messaging to overcome vaccine hesitancy and improve overall vaccination rates.
