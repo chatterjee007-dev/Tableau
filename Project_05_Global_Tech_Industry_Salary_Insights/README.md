@@ -117,6 +117,30 @@ The **Global Tech Industry Salary Insights Dashboard** is an interactive Tableau
 ---
 
 ## **Why This Dashboard Matters**  
-- **Interactive Visuals**: Provides clear, actionable insights through detailed visualizations.  
-- **Comprehensive Data**: Offers a thorough analysis of salary data across different dimensions.  
-- **Data-Driven Strategy**: Empowers stakeholders to make informed decisions for talent management and compensation strategies.
+1. **Interactive Visuals**:  
+   Provides clear, actionable insights through detailed visualizations.
+
+2. **Comprehensive Data**:  
+   Offers a thorough analysis of salary data across different dimensions.
+
+3. **Data-Driven Strategy**:  
+   Empowers stakeholders to make informed decisions for talent management and compensation strategies.
+
+4. **Optimize Compensation**:  
+   Helps align salary structures with industry standards and geographical benchmarks.
+
+5. **Talent Retention**:  
+   Develops targeted retention programs for senior professionals, enhancing workforce stability.
+
+6. **Geographical Insights**:  
+   Utilizes location-based salary data to attract and retain talent in key markets.
+
+7. **Employment Type Analysis**:  
+   Highlights the distribution of employment types, aiding in workforce planning.
+
+8. **Competitive Advantage**:  
+   Keeps companies ahead by continuously adapting to industry trends and salary benchmarks.
+
+---
+
+By leveraging these insights, the **Global Tech Industry Salary Insights Dashboard** transforms how stakeholders manage talent and compensation, driving strategic decisions that enhance organizational growth and competitiveness.
