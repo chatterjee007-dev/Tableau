@@ -34,7 +34,7 @@ The **Amazon Sales Performance Dashboard** is an interactive Tableau visualizati
 
 3. **Category & Channel Insights**:  
    - **Courier Status**: 94.21% shipped, 5.79% unshipped.  
-   - **Sales Channels**: Heatmap shows **99.86% Amazon.in** dominance.  
+   - **Sales Channels**: Heatmap shows **99.86% Amazon** dominance.  
    - **B2B vs. B2C Sales**: 99.28% non-B2B sales.  
 
 4. **User-Centric Design**:  
@@ -45,7 +45,7 @@ The **Amazon Sales Performance Dashboard** is an interactive Tableau visualizati
 ## **Insights**  
 
 1. **Channel Dominance**:  
-   - Sales heavily reliant on **Amazon.in** (99.86%).  
+   - Sales heavily reliant on **Amazon** (99.86%).  
 
 2. **Logistics Excellence**:  
    - High shipping success rate (**94.21%**) ensures customer satisfaction.  
