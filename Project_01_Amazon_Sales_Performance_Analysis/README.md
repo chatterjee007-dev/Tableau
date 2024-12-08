@@ -82,28 +82,28 @@ The **Amazon Sales Performance Dashboard** is an interactive Tableau visualizati
 
 ## **Why This Dashboard Matters**  
 1. **Strategic Sales Optimization**:  
-   By analyzing weekly sales trends and peak periods, Amazon can strategically time their marketing campaigns and promotions to maximize sales and revenue growth.
+      - By analyzing weekly sales trends and peak periods, Amazon can strategically time their marketing campaigns and promotions to maximize sales and revenue growth.
 
 2. **Enhanced Shipping Efficiency**:  
-   The high shipping success rate (94.21%) highlights strong logistics performance. Continuous monitoring and improvement in this area will ensure even greater customer satisfaction and loyalty.
+      - The high shipping success rate (94.21%) highlights strong logistics performance. Continuous monitoring and improvement in this area will ensure even greater customer satisfaction and loyalty.
 
 3. **Channel Strengthening**:  
-   With 99.86% of sales through Amazon, focusing on enhancing this core channel will solidify its dominance and potentially explore new sales channels for diversification.
+      - With 99.86% of sales through Amazon, focusing on enhancing this core channel will solidify its dominance and potentially explore new sales channels for diversification.
 
 4. **Category Performance Insight**:  
-   Identifying high-performing categories allows for focused investment and promotional efforts, ensuring that resources are allocated to the most profitable segments.
+      - Identifying high-performing categories allows for focused investment and promotional efforts, ensuring that resources are allocated to the most profitable segments.
 
 5. **B2B Market Expansion**:  
-   The dashboard reveals untapped potential in B2B sales, which currently stands at 0.72%. Targeted initiatives to grow this segment can diversify revenue streams and stabilize business growth.
+      - The dashboard reveals untapped potential in B2B sales, which currently stands at 0.72%. Targeted initiatives to grow this segment can diversify revenue streams and stabilize business growth.
 
 6. **Customer-Centric Enhancements**:  
-   Understanding customer purchase patterns and preferences helps in designing personalized shopping experiences, tailored marketing strategies, and improving customer retention.
+      - Understanding customer purchase patterns and preferences helps in designing personalized shopping experiences, tailored marketing strategies, and improving customer retention.
 
 7. **Resource Allocation**:  
-   Insights from the dashboard enable efficient resource allocation by identifying underperforming categories, allowing for reallocation to more profitable areas.
+      - Insights from the dashboard enable efficient resource allocation by identifying underperforming categories, allowing for reallocation to more profitable areas.
 
 8. **Competitive Advantage**:  
-   Leveraging real-time data and insights keeps Amazon ahead of competitors by continuously adapting to market trends and customer needs, ensuring sustained growth and market leadership.
+      - Leveraging real-time data and insights keeps Amazon ahead of competitors by continuously adapting to market trends and customer needs, ensuring sustained growth and market leadership.
 
 ---
 
