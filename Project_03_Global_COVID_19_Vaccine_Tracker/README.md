@@ -86,10 +86,10 @@ The **Global COVID-19 Vaccine Tracker** is an interactive Tableau visualization 
 7. **Economic Insights**:
       - Reveals the impact of economic factors on vaccination rates, guiding resource allocation to improve vaccination coverage.
 9. **Targeted Public Health Efforts**:
-       - Identifies regions with low vaccination rates, enabling targeted campaigns to boost vaccine uptake.
+      - Identifies regions with low vaccination rates, enabling targeted campaigns to boost vaccine uptake.
 11. **Equitable Vaccine Distribution**:
-       - Supports efforts to enhance international cooperation and ensure fair vaccine distribution.
+      - Supports efforts to enhance international cooperation and ensure fair vaccine distribution.
 13. **Monitoring and Adaptation**:
-       - Allows continuous tracking of vaccination trends, helping to refine public health strategies over time.
+      - Allows continuous tracking of vaccination trends, helping to refine public health strategies over time.
 15. **Addressing Vaccine Hesitancy**:
-       - Strengthens public health messaging to overcome vaccine hesitancy and improve overall vaccination rates.
+      - Strengthens public health messaging to overcome vaccine hesitancy and improve overall vaccination rates.
